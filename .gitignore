@@ -1,0 +1,14 @@
+# fichiers systemes
+.DS_Store
+
+#vscode
+.vscode/*
+
+# yarn
+node_modules
+.yarn/*
+!.yarn/cache
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
